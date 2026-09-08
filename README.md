@@ -238,3 +238,6 @@ This repository serves as the official landing page for East India Company. The 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of East India Company today!**
+
+---
+**Last updated:** 2026-09-08 00:00:29 UTC
